@@ -28,3 +28,9 @@ All data and code required to reproduce the reported results are provided in thi
 3. Run all cells sequentially
 
 The notebook installs required Python packages automatically and reproduces the model training and evaluation workflow.
+## Citation
+
+If you use this dataset or code, please cite:
+
+Marshall, J.; Alexander, M.; Garcia, V. J.; Safin, J.; Sanchez, S. L.; Foadian, E.; Rawn, C.; Page, K.; Kalinin, S. V.; Ahmadi, M.  
+Uncertainty-Aware Prediction of Thermal Expansion in Complex Oxides via LLM-Curated Literature Data.
