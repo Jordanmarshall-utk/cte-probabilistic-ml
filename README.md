@@ -21,3 +21,10 @@ The repository supports:
 
 ## Reproducibility
 All data and code required to reproduce the reported results are provided in this repository.
+## Running the workflow
+
+1. Download the repository
+2. Open the notebook `Final_CTE_Code_Main.ipynb`
+3. Run all cells sequentially
+
+The notebook installs required Python packages automatically and reproduces the model training and evaluation workflow.
